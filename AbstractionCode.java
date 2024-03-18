@@ -26,7 +26,7 @@ class Dog extends Animal implements Soundable {
     }
 }
 
-// Concrete subclass Cat
+
 class Cat extends Animal implements Soundable {
     @Override
     void eat() {
